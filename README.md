@@ -4,7 +4,7 @@
 A simple, responsive stopwatch web application built using HTML, CSS, and JavaScript. This app lets you start, stop, and reset a timer with ease — all from your browser.
 
 ## 🚀 Live Demo
-You can try it live here: Live Demo Link <!-- Replace # with your live site URL if hosted -->
+You can try it live here: Live Demo Link https://stopwatch-3zhc.onrender.com
 
 ## 🛠️ Features
 - ⏯️ Start, Stop, and Reset the stopwatch
