@@ -12,15 +12,14 @@ You can try it live here: Live Demo Link <!-- Replace # with your live site URL 
 - 📱 Responsive design for desktop and mobile
 
 ## 📂 Project Structure
-│
 ├── index.html       # Main HTML file <br>
 ├── style.css        # Styling for the stopwatch <br>
 └── script.js        # Stopwatch logic using JavaScript <br>
 
 ## 📦 Getting Started
-- Clone the repository:git clone https://github.com/your-username/stopwatch.git
-- Navigate to the project directory: cd stopwatch
-- Open index.html in your browser:
+- Clone the repository : git clone https://github.com/your-username/stopwatch.git
+- Navigate to the project directory : cd stopwatch
+- Open index.html in your browser.
 - Just double-click the file or open it with your favorite browser.
 
 ## 🧠 How It Works
